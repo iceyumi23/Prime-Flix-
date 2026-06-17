@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prime-Flix-/static/css/main.9d12deaf.css",
+    "main.js": "/Prime-Flix-/static/js/main.455e9379.js",
+    "index.html": "/Prime-Flix-/index.html",
+    "main.9d12deaf.css.map": "/Prime-Flix-/static/css/main.9d12deaf.css.map",
+    "main.455e9379.js.map": "/Prime-Flix-/static/js/main.455e9379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d12deaf.css",
+    "static/js/main.455e9379.js"
+  ]
+}
